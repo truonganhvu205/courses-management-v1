@@ -1,12 +1,14 @@
 #### Description
 
+A basic CRUD courses management.
+
 #### npm Packages
 
 ```
 npm init
 
 npm i express
-npm i epress-handlebars
+npm i express-handlebars
 npm i mongoose
 npm i mongoose-slug-generator
 npm install method-override

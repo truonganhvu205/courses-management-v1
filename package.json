@@ -1,7 +1,15 @@
 {
-  "name": "nodejsfilestructure",
+  "name": "coursesmanagementv1",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic CRUD courses management.",
+  "homepage": "https://github.com/truonganhvu205/courses-management-v1#readme",
+  "bugs": {
+    "url": "https://github.com/truonganhvu205/courses-management-v1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truonganhvu205/courses-management-v1.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",

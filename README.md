@@ -1,6 +1,6 @@
 #### Description
 
-A basic CRUD courses management.
+A basic CRUD Courses Management.
 
 #### npm Packages
 
